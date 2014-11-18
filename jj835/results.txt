@@ -1,0 +1,20 @@
+Investment positions: 1 and investment value per position (dollar): 1000 
+	 Mean of daily return is 0.0198 
+	 Standard deviation of daily return is 0.999803960784 
+
+ 
+Investment positions: 10 and investment value per position (dollar): 100 
+	 Mean of daily return is 0.1582 
+	 Standard deviation of daily return is 3.15939436601 
+
+ 
+Investment positions: 100 and investment value per position (dollar): 10 
+	 Mean of daily return is 2.01 
+	 Standard deviation of daily return is 9.92043849837 
+
+ 
+Investment positions: 1000 and investment value per position (dollar): 1 
+	 Mean of daily return is 20.0896 
+	 Standard deviation of daily return is 31.5552716965 
+
+ 
