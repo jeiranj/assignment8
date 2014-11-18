@@ -13,4 +13,5 @@ This "investment instrument" is like an even money bet on a biased coin (that co
 
 -- Suppose further that we have $1000 to invest on the first day. 
 
+Simply type in the command line:  python ass8.py 
 This will run a simulation to determine how to make that investment on the first day. i.e. Should we make a single $1000 investment, or 1000 $1 investments (or something in between)?
