@@ -42,6 +42,9 @@ class InvestSimulator(object):
             self.position_value = float(self.investment)/self.positions
         
     def simulate(self):
+        """This function simulates random binomial draws, writes the mean and standard deviation
+        of draws to file 'results.txt' and saves histogram plots of draws. It should catch exceptions
+        when opening, writing and closing the file."""
         open('results.txt','w')
         for ind in self.positions:
             # Simulate samples for each investment position in 'positions'
